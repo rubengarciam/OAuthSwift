@@ -272,7 +272,7 @@ See more examples in the demo application: [ViewController.swift](/Demo/Common/V
 * [Fitbit](https://dev.fitbit.com/build/reference/web-api/oauth2/)  
 * [Withings](http://oauth.withings.com/api)  
 * [Linkedin](https://developer.linkedin.com/docs/oauth2)  
-* [Dropbox](https://www.dropbox.com/developers/core/docs)  
+* [Dropbox](https://www.dropbox.com/developers/reference/oauth-guide)  
 * [Dribbble](http://developer.dribbble.com/v1/oauth/)
 * [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/)
 * [BitBucket](https://confluence.atlassian.com/bitbucket/oauth-on-bitbucket-cloud-238027431.html)
